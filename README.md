@@ -1,4 +1,4 @@
-# Automated-ETL-Pipeline-for-Banking-Data-Analysis
+# ETL-Pipeline-Automation-for-Banking-Data-Analysis
 
 This Python script implements an automated Extract, Transform, Load (ETL) pipeline for analyzing banking data. The pipeline consists of the following steps:
 
